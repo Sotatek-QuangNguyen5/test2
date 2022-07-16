@@ -1,2 +1,4 @@
 hello
 hhhhh
+hi
+echo
